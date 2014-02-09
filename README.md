@@ -1,0 +1,1 @@
+Android-App für das Mdr-Tippspiel (http://www.mdr.de/scripts4/tippspiel).

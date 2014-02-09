@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Tippspiel</string>
+    <string name="email">Emailaddresse</string>
+    <string name="password">Passwort</string>
+    <string name="settings">Einstellungen</string>
+    <string name="info">Informationen</string>
+    <string name="exit">Beenden</string>
+    <string name="refresh">Aktualisieren</string>
 </resources>
