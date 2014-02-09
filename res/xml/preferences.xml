@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
-    <EditTextPreference android:title="@string/email" android:key="pref_email" android:text="@string/email"/>
-    <EditTextPreference android:title="@string/password" android:password="true" android:key="pref_password"
+    <de.storm.android.Tippspiel.preferences.EditTextPreferenceWithSummary android:title="@string/email" android:key="pref_email" android:text="@string/email"/>
+    <de.storm.android.Tippspiel.preferences.EditTextPreferenceWithSummary android:title="@string/password" android:password="true" android:key="pref_password"
                         android:text="@string/password"/>
 </PreferenceScreen>

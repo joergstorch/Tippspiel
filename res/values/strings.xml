@@ -7,4 +7,6 @@
     <string name="info">Informationen</string>
     <string name="exit">Beenden</string>
     <string name="refresh">Aktualisieren</string>
+    <string name="pref_email">pref_email</string>
+    <string name="pref_password">pref_password</string>
 </resources>
